@@ -4,7 +4,8 @@ This project is a Spring Boot implementation of the backend APIs for a ticket bo
 
 ## Project Working FlowChart
 
-![BMSflowchart.jpg](src%2Fmain%2Fjava%2Fcom%2Fdriver%2FbookMyShow%2FImages%2FBMSflowchart.jpg)
+<img width="1024" height="474" alt="image" src="https://github.com/user-attachments/assets/b30eef95-0c01-4ba7-89fc-82cfc95c39f3" />
+)
 
 ## Features
 * **User Registration:** Users can create an account, log in, and manage their profile information.
