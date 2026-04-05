@@ -11,7 +11,7 @@ This project is a Spring Boot implementation of the backend APIs for a ticket bo
 * **Booking History:** Users can view their booking history and check the details of their past bookings.
 * **Email Notifications:** Users receive email notifications for successful bookings and important updates.
 ## Technologies Used
-* **Java 8+**
+* **Java**
 * **Spring Boot**
 * **Spring MVC**
 * **Spring Data JPA**
